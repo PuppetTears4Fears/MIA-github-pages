@@ -8,7 +8,7 @@ title: Minorities In Action
 ![Featured Artwork](path/to/assets/That Ole Preacher.jpg)
 
 ## Gallery
-![Sunset Painting](path/to/sunset-painting.jpg)
+![MIA_Comics](path/to/assets/MIA_COMICs ART.jpg)
 ![Abstract Art](path/to/abstract-art.jpg)
 
 ## About US
