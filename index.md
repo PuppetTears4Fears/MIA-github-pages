@@ -9,7 +9,6 @@ title: Minorities In Action
 
 ## Gallery
 ![MIA_Comics](path/to/assets/MIA_COMICs ART.jpg)
-![Abstract Art](path/to/abstract-art.jpg)
 
 ## About US
 We are artists. Our work explores things we see in our minds eye and actuality.
