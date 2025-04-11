@@ -5,7 +5,7 @@ title: Minorities In Action
 
 # Welcome to M.I.A Art
 
-![Featured Artwork](path/to/BIsB Issue 1 cover_Colour.jpg)
+![Featured Artwork](path/to/assets/That Ole Preacher.jpg)
 
 ## Gallery
 ![Sunset Painting](path/to/sunset-painting.jpg)
